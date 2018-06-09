@@ -15,9 +15,9 @@ It might be (case for the label #3 for instance) that a step is included in one 
 
 Steps themselves include:
 - **interaction**: the user input that was produced during that step to lead to the next one. It has
-an interaction type, and optionally a corresponding box on the screen (e.g. where was element clicked).
+an interaction type, and optionally a corresponding box on the screen (e.g. where was the element clicked).
 - **screenUrl**: the screenshot where that interaction took place
-- **diffNodes** an indexed collection of the nodes that changed between `head` and `base`:
+- **diffNodes**: an indexed collection of the nodes that changed between `head` and `base`:
   * the key allows to find (if any) the corresponding node in the other version.
   * the box allows to emphasize the proper area of the screen where that happened.
 
