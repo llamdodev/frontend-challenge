@@ -1,7 +1,7 @@
 # frontend-challenge
 
 The repository includes some data after our processing, and leaves it up to your inspiration
-to display it in a nice way. We have attached the way we chose for now [in the annex](#annex).
+to display it in a nice way. We have attached the way we chose (for now) [in the annex](#annex).
 
 ## The data
 
@@ -9,9 +9,9 @@ We have attached the file `comparisons.json`.
 It corresponds to the comparison of a list of flows between 2 versions of an app. The versions
 are denoted by `head` for the latest version, and `base` for the stable version compared against.
 
-Each `head` and `base` have the same structure, of a collection of keyed steps.
+Each `head` and `base` have the same structure, that is a collection of keyed steps.
 The key allows to map the step from `head `to the corresponding step from `base`.
-It might (case for the label #3 for instance) that a step is included in one version only.
+It might be (case for the label #3 for instance) that a step is included in one version only.
 
 Steps themselves include:
 - **interaction**: the user input that was produced during that step to lead to the next one. It has
