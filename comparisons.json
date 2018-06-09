@@ -1,0 +1,880 @@
+[
+  {
+    "label": "#1",
+    "description": "Turn on night mode",
+    "base": {
+      "step-1": {
+        "screenUrl": "https://waldoio.imgix.net/run-9bcf71ff29d51e96/screens/e0f622452705f4d4d9a6cf224bbfae85.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 960,
+            "top": 84,
+            "width": 120,
+            "height": 144
+          }
+        },
+        "diffNodes": {
+          "node-1": {
+            "box": {
+              "left": 864,
+              "top": 1704,
+              "width": 168,
+              "height": 168
+            }
+          },
+          "node-2": {
+            "box": {
+              "left": 48,
+              "top": 115,
+              "width": 215,
+              "height": 81
+            }
+          }
+        }
+      },
+      "step-2": {
+        "screenUrl": "https://waldoio.imgix.net/run-9bcf71ff29d51e96/screens/1ce79eb17ebf6e6dc74a151b7f7f6f5a.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 480,
+            "top": 84,
+            "width": 588,
+            "height": 144
+          }
+        },
+        "diffNodes": {}
+      },
+      "step-3": {
+        "screenUrl": "https://waldoio.imgix.net/run-9bcf71ff29d51e96/screens/dfe41c74765ba5afd84f8fa45a157e35.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 936,
+            "top": 301,
+            "width": 96,
+            "height": 96
+          }
+        },
+        "diffNodes": {
+          "node-1": {
+            "box": {
+              "left": 180,
+              "top": 115,
+              "width": 215,
+              "height": 81
+            }
+          }
+        }
+      },
+      "step-4": {
+        "screenUrl": "https://waldoio.imgix.net/run-9bcf71ff29d51e96/screens/e5d2cdf0e673b7237e1d33fdbb6970b2.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 0,
+            "top": 72,
+            "width": 168,
+            "height": 168
+          }
+        },
+        "diffNodes": {
+          "node-1": {
+            "box": {
+              "left": 180,
+              "top": 115,
+              "width": 215,
+              "height": 81
+            }
+          }
+        }
+      },
+      "step-5": {
+        "screenUrl": "https://waldoio.imgix.net/run-9bcf71ff29d51e96/screens/a3a2049bbe5d58f5c555b78085a68d9e.png",
+        "interaction": {
+          "action": "END"
+        },
+        "diffNodes": {
+          "node-1": {
+            "box": {
+              "left": 864,
+              "top": 1704,
+              "width": 168,
+              "height": 168
+            }
+          },
+          "node-2": {
+            "box": {
+              "left": 48,
+              "top": 115,
+              "width": 215,
+              "height": 81
+            }
+          }
+        }
+      }
+    },
+    "head": {
+      "step-1": {
+        "screenUrl": "https://waldoio.imgix.net/run-d1e555a531fc76a0/screens/88a2a16c6ce4fd308a5c7e79a02952cf.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 960,
+            "top": 84,
+            "width": 120,
+            "height": 144
+          }
+        },
+        "diffNodes": {
+          "node-2": {
+            "box": {
+              "left": 48,
+              "top": 115,
+              "width": 246,
+              "height": 81
+            }
+          }
+        }
+      },
+      "step-2": {
+        "screenUrl": "https://waldoio.imgix.net/run-d1e555a531fc76a0/screens/599cd261e4cdc39c99a9ac052c696788.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 480,
+            "top": 228,
+            "width": 588,
+            "height": 144
+          }
+        },
+        "diffNodes": {
+          "node-1": {
+            "box": {
+              "left": 480,
+              "top": 84,
+              "width": 588,
+              "height": 144
+            }
+          }
+        }
+      },
+      "step-3": {
+        "screenUrl": "https://waldoio.imgix.net/run-d1e555a531fc76a0/screens/e89ab65ffb84ba43890f164105b70854.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 936,
+            "top": 301,
+            "width": 96,
+            "height": 96
+          }
+        },
+        "diffNodes": {
+          "node-1": {
+            "box": {
+              "left": 180,
+              "top": 115,
+              "width": 246,
+              "height": 81
+            }
+          }
+        }
+      },
+      "step-4": {
+        "screenUrl": "https://waldoio.imgix.net/run-d1e555a531fc76a0/screens/50cd62ff49bf4ed1799e3f19989830dd.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 0,
+            "top": 72,
+            "width": 168,
+            "height": 168
+          }
+        },
+        "diffNodes": {
+          "node-1": {
+            "box": {
+              "left": 180,
+              "top": 115,
+              "width": 246,
+              "height": 81
+            }
+          }
+        }
+      },
+      "step-5": {
+        "screenUrl": "https://waldoio.imgix.net/run-d1e555a531fc76a0/screens/04f21570508123ed222b4ebb9396b024.png",
+        "interaction": {
+          "action": "END"
+        },
+        "diffNodes": {
+          "node-2": {
+            "box": {
+              "left": 48,
+              "top": 115,
+              "width": 246,
+              "height": 81
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "label": "#2",
+    "description": "Open \"About\" page",
+    "base": {
+      "step-1": {
+        "screenUrl": "https://waldoio.imgix.net/run-9bcf71ff29d51e96/screens/e0f622452705f4d4d9a6cf224bbfae85.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 960,
+            "top": 84,
+            "width": 120,
+            "height": 144
+          }
+        },
+        "diffNodes": {
+          "node-1": {
+            "box": {
+              "left": 864,
+              "top": 1704,
+              "width": 168,
+              "height": 168
+            }
+          },
+          "node-2": {
+            "box": {
+              "left": 48,
+              "top": 115,
+              "width": 215,
+              "height": 81
+            }
+          }
+        }
+      },
+      "step-2": {
+        "screenUrl": "https://waldoio.imgix.net/run-9bcf71ff29d51e96/screens/1ce79eb17ebf6e6dc74a151b7f7f6f5a.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 480,
+            "top": 228,
+            "width": 588,
+            "height": 144
+          }
+        },
+        "diffNodes": {}
+      },
+      "step-3": {
+        "screenUrl": "https://waldoio.imgix.net/run-9bcf71ff29d51e96/screens/716122b29883ee9d0af30d863264d12d.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 0,
+            "top": 72,
+            "width": 168,
+            "height": 168
+          }
+        },
+        "diffNodes": {
+          "node-1": {
+            "box": {
+              "left": 180,
+              "top": 115,
+              "width": 215,
+              "height": 81
+            }
+          },
+          "node-2": {
+            "box": {
+              "left": 0,
+              "top": 690,
+              "width": 1080,
+              "height": 97
+            }
+          }
+        }
+      },
+      "step-4": {
+        "screenUrl": "https://waldoio.imgix.net/run-9bcf71ff29d51e96/screens/e0f622452705f4d4d9a6cf224bbfae85.png",
+        "interaction": {
+          "action": "END"
+        },
+        "diffNodes": {
+          "node-1": {
+            "box": {
+              "left": 864,
+              "top": 1704,
+              "width": 168,
+              "height": 168
+            }
+          },
+          "node-2": {
+            "box": {
+              "left": 48,
+              "top": 115,
+              "width": 215,
+              "height": 81
+            }
+          }
+        }
+      }
+    },
+    "head": {
+      "step-1": {
+        "screenUrl": "https://waldoio.imgix.net/run-d1e555a531fc76a0/screens/88a2a16c6ce4fd308a5c7e79a02952cf.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 960,
+            "top": 84,
+            "width": 120,
+            "height": 144
+          }
+        },
+        "diffNodes": {
+          "node-2": {
+            "box": {
+              "left": 48,
+              "top": 115,
+              "width": 246,
+              "height": 81
+            }
+          }
+        }
+      },
+      "step-2": {
+        "screenUrl": "https://waldoio.imgix.net/run-d1e555a531fc76a0/screens/599cd261e4cdc39c99a9ac052c696788.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 480,
+            "top": 372,
+            "width": 588,
+            "height": 144
+          }
+        },
+        "diffNodes": {
+          "node-1": {
+            "box": {
+              "left": 480,
+              "top": 84,
+              "width": 588,
+              "height": 144
+            }
+          }
+        }
+      },
+      "step-3": {
+        "screenUrl": "https://waldoio.imgix.net/run-d1e555a531fc76a0/screens/9299b700c1e0f42fdcff654d212d6df7.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 0,
+            "top": 72,
+            "width": 168,
+            "height": 168
+          }
+        },
+        "diffNodes": {
+          "node-1": {
+            "box": {
+              "left": 180,
+              "top": 115,
+              "width": 246,
+              "height": 81
+            }
+          },
+          "node-2": {
+            "box": {
+              "left": 0,
+              "top": 690,
+              "width": 1080,
+              "height": 97
+            }
+          }
+        }
+      },
+      "step-4": {
+        "screenUrl": "https://waldoio.imgix.net/run-d1e555a531fc76a0/screens/88a2a16c6ce4fd308a5c7e79a02952cf.png",
+        "interaction": {
+          "action": "END"
+        },
+        "diffNodes": {
+          "node-2": {
+            "box": {
+              "left": 48,
+              "top": 115,
+              "width": 246,
+              "height": 81
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "label": "#3",
+    "description": "Create todo with reminder date",
+    "base": {
+      "step-1": {
+        "screenUrl": "https://waldoio.imgix.net/run-9bcf71ff29d51e96/screens/e0f622452705f4d4d9a6cf224bbfae85.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 864,
+            "top": 1704,
+            "width": 168,
+            "height": 168
+          }
+        },
+        "diffNodes": {
+          "node-1": {
+            "box": {
+              "left": 864,
+              "top": 1704,
+              "width": 168,
+              "height": 168
+            }
+          },
+          "node-2": {
+            "box": {
+              "left": 48,
+              "top": 115,
+              "width": 215,
+              "height": 81
+            }
+          }
+        }
+      },
+      "step-3": {
+        "screenUrl": "https://waldoio.imgix.net/run-9bcf71ff29d51e96/screens/ef19558bb3f214662442b452e05cefb0.png",
+        "interaction": {
+          "action": "INPUT_TEXT",
+          "box": {
+            "left": 96,
+            "top": 401,
+            "width": 888,
+            "height": 136
+          }
+        },
+        "diffNodes": {}
+      },
+      "step-4": {
+        "screenUrl": "https://waldoio.imgix.net/run-9bcf71ff29d51e96/screens/426d19eaee075a457e287fdcf920e52b.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 717,
+            "top": 897,
+            "width": 255,
+            "height": 105
+          }
+        },
+        "diffNodes": {}
+      },
+      "step-5": {
+        "screenUrl": "https://waldoio.imgix.net/run-9bcf71ff29d51e96/screens/466e4785e3c47656deee80a462696922.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 864,
+            "top": 576,
+            "width": 168,
+            "height": 168
+          }
+        },
+        "diffNodes": {}
+      },
+      "step-6": {
+        "screenUrl": "https://waldoio.imgix.net/run-9bcf71ff29d51e96/screens/aaa23da61000346a88d79e34cdaaed71.png",
+        "interaction": {
+          "action": "END"
+        },
+        "diffNodes": {
+          "node-1": {
+            "box": {
+              "left": 864,
+              "top": 1704,
+              "width": 168,
+              "height": 168
+            }
+          },
+          "node-2": {
+            "box": {
+              "left": 48,
+              "top": 115,
+              "width": 215,
+              "height": 81
+            }
+          }
+        }
+      }
+    },
+    "head": {
+      "step-1": {
+        "screenUrl": "https://waldoio.imgix.net/run-d1e555a531fc76a0/screens/88a2a16c6ce4fd308a5c7e79a02952cf.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 960,
+            "top": 84,
+            "width": 120,
+            "height": 144
+          }
+        },
+        "diffNodes": {
+          "node-2": {
+            "box": {
+              "left": 48,
+              "top": 115,
+              "width": 246,
+              "height": 81
+            }
+          }
+        }
+      },
+      "step-2": {
+        "screenUrl": "https://waldoio.imgix.net/run-d1e555a531fc76a0/screens/599cd261e4cdc39c99a9ac052c696788.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 480,
+            "top": 84,
+            "width": 588,
+            "height": 144
+          }
+        },
+        "diffNodes": {}
+      },
+      "step-3": {
+        "screenUrl": "https://waldoio.imgix.net/run-d1e555a531fc76a0/screens/ef19558bb3f214662442b452e05cefb0.png",
+        "interaction": {
+          "action": "INPUT_TEXT",
+          "box": {
+            "left": 96,
+            "top": 401,
+            "width": 888,
+            "height": 136
+          }
+        },
+        "diffNodes": {}
+      },
+      "step-4": {
+        "screenUrl": "https://waldoio.imgix.net/run-d1e555a531fc76a0/screens/426d19eaee075a457e287fdcf920e52b.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 717,
+            "top": 897,
+            "width": 255,
+            "height": 105
+          }
+        },
+        "diffNodes": {}
+      },
+      "step-5": {
+        "screenUrl": "https://waldoio.imgix.net/run-d1e555a531fc76a0/screens/466e4785e3c47656deee80a462696922.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 864,
+            "top": 576,
+            "width": 168,
+            "height": 168
+          }
+        },
+        "diffNodes": {}
+      },
+      "step-6": {
+        "screenUrl": "https://waldoio.imgix.net/run-d1e555a531fc76a0/screens/7674471bd41c9ac08371e0f6f44b8202.png",
+        "interaction": {
+          "action": "END"
+        },
+        "diffNodes": {
+          "node-2": {
+            "box": {
+              "left": 48,
+              "top": 115,
+              "width": 246,
+              "height": 81
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "label": "#4",
+    "description": "Create + Edit todo",
+    "base": {
+      "step-1": {
+        "screenUrl": "https://waldoio.imgix.net/run-9bcf71ff29d51e96/screens/e0f622452705f4d4d9a6cf224bbfae85.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 864,
+            "top": 1704,
+            "width": 168,
+            "height": 168
+          }
+        },
+        "diffNodes": {
+          "node-1": {
+            "box": {
+              "left": 864,
+              "top": 1704,
+              "width": 168,
+              "height": 168
+            }
+          },
+          "node-2": {
+            "box": {
+              "left": 48,
+              "top": 115,
+              "width": 215,
+              "height": 81
+            }
+          }
+        }
+      },
+      "step-3": {
+        "screenUrl": "https://waldoio.imgix.net/run-9bcf71ff29d51e96/screens/61590ee53a6e334b5411f109d6051395.png",
+        "interaction": {
+          "action": "INPUT_TEXT",
+          "box": {
+            "left": 96,
+            "top": 401,
+            "width": 888,
+            "height": 136
+          }
+        },
+        "diffNodes": {}
+      },
+      "step-4": {
+        "screenUrl": "https://waldoio.imgix.net/run-9bcf71ff29d51e96/screens/426d19eaee075a457e287fdcf920e52b.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 864,
+            "top": 576,
+            "width": 168,
+            "height": 168
+          }
+        },
+        "diffNodes": {}
+      },
+      "step-5": {
+        "screenUrl": "https://waldoio.imgix.net/run-9bcf71ff29d51e96/screens/ac92c83eaa8c24e83c51f2ea5d08006a.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 0,
+            "top": 240,
+            "width": 1080,
+            "height": 192
+          }
+        },
+        "diffNodes": {
+          "node-1": {
+            "box": {
+              "left": 864,
+              "top": 1704,
+              "width": 168,
+              "height": 168
+            }
+          },
+          "node-2": {
+            "box": {
+              "left": 48,
+              "top": 115,
+              "width": 215,
+              "height": 81
+            }
+          }
+        }
+      },
+      "step-6": {
+        "screenUrl": "https://waldoio.imgix.net/run-9bcf71ff29d51e96/screens/426d19eaee075a457e287fdcf920e52b.png",
+        "interaction": {
+          "action": "INPUT_TEXT",
+          "box": {
+            "left": 96,
+            "top": 401,
+            "width": 888,
+            "height": 136
+          }
+        },
+        "diffNodes": {}
+      },
+      "step-7": {
+        "screenUrl": "https://waldoio.imgix.net/run-9bcf71ff29d51e96/screens/1f9b3c819992439850ea840a32d270a0.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 864,
+            "top": 576,
+            "width": 168,
+            "height": 168
+          }
+        },
+        "diffNodes": {}
+      },
+      "step-8": {
+        "screenUrl": "https://waldoio.imgix.net/run-9bcf71ff29d51e96/screens/6ad1e81654559c358ba5b3d79f336e9b.png",
+        "interaction": {
+          "action": "END"
+        },
+        "diffNodes": {
+          "node-1": {
+            "box": {
+              "left": 864,
+              "top": 1704,
+              "width": 168,
+              "height": 168
+            }
+          },
+          "node-2": {
+            "box": {
+              "left": 48,
+              "top": 115,
+              "width": 215,
+              "height": 81
+            }
+          }
+        }
+      }
+    },
+    "head": {
+      "step-1": {
+        "screenUrl": "https://waldoio.imgix.net/run-d1e555a531fc76a0/screens/88a2a16c6ce4fd308a5c7e79a02952cf.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 960,
+            "top": 84,
+            "width": 120,
+            "height": 144
+          }
+        },
+        "diffNodes": {
+          "node-2": {
+            "box": {
+              "left": 48,
+              "top": 115,
+              "width": 246,
+              "height": 81
+            }
+          }
+        }
+      },
+      "step-2": {
+        "screenUrl": "https://waldoio.imgix.net/run-d1e555a531fc76a0/screens/599cd261e4cdc39c99a9ac052c696788.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 480,
+            "top": 84,
+            "width": 588,
+            "height": 144
+          }
+        },
+        "diffNodes": {}
+      },
+      "step-3": {
+        "screenUrl": "https://waldoio.imgix.net/run-d1e555a531fc76a0/screens/61590ee53a6e334b5411f109d6051395.png",
+        "interaction": {
+          "action": "INPUT_TEXT",
+          "box": {
+            "left": 96,
+            "top": 401,
+            "width": 888,
+            "height": 136
+          }
+        },
+        "diffNodes": {}
+      },
+      "step-4": {
+        "screenUrl": "https://waldoio.imgix.net/run-d1e555a531fc76a0/screens/426d19eaee075a457e287fdcf920e52b.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 864,
+            "top": 576,
+            "width": 168,
+            "height": 168
+          }
+        },
+        "diffNodes": {}
+      },
+      "step-5": {
+        "screenUrl": "https://waldoio.imgix.net/run-d1e555a531fc76a0/screens/1ad9316d692a43860ae219899c28a31c.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 0,
+            "top": 240,
+            "width": 1080,
+            "height": 192
+          }
+        },
+        "diffNodes": {
+          "node-2": {
+            "box": {
+              "left": 48,
+              "top": 115,
+              "width": 246,
+              "height": 81
+            }
+          }
+        }
+      },
+      "step-6": {
+        "screenUrl": "https://waldoio.imgix.net/run-d1e555a531fc76a0/screens/426d19eaee075a457e287fdcf920e52b.png",
+        "interaction": {
+          "action": "INPUT_TEXT",
+          "box": {
+            "left": 96,
+            "top": 401,
+            "width": 888,
+            "height": 136
+          }
+        },
+        "diffNodes": {}
+      },
+      "step-7": {
+        "screenUrl": "https://waldoio.imgix.net/run-d1e555a531fc76a0/screens/1f9b3c819992439850ea840a32d270a0.png",
+        "interaction": {
+          "action": "CLICK",
+          "box": {
+            "left": 864,
+            "top": 576,
+            "width": 168,
+            "height": 168
+          }
+        },
+        "diffNodes": {}
+      },
+      "step-8": {
+        "screenUrl": "https://waldoio.imgix.net/run-d1e555a531fc76a0/screens/d6615d5fe0b15afc2ea7f71743cdb9da.png",
+        "interaction": {
+          "action": "END"
+        },
+        "diffNodes": {
+          "node-2": {
+            "box": {
+              "left": 48,
+              "top": 115,
+              "width": 246,
+              "height": 81
+            }
+          }
+        }
+      }
+    }
+  }
+]
