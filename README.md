@@ -3,6 +3,14 @@
 The repository includes some data after our processing, and leaves it up to your inspiration
 to display it in a nice way. We have attached the way we chose (for now) [in the annex](#annex).
 
+## Submit
+
+Please add @laurentsigal as a contributor to your github repository.
+
+Otherwise you can simply host the code anywhere and give us a link to the zip file.
+
+Do not make your repository public.
+
 ## The data
 
 We have attached the file `comparisons.json`.
