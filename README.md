@@ -5,9 +5,7 @@ to display it in a nice way. We have attached the way we chose (for now) [in the
 
 ## Submit
 
-Please add [@laurentsigal](https://github.com/laurentsigal) as a contributor to your github repository.
-
-Otherwise you can simply host the code anywhere and give us a link to the zip file.
+Please zip your repo once your work is complete and send it to developers@waldo.io.
 
 Do not make your repository public.
 
